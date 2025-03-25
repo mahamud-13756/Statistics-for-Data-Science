@@ -44,13 +44,13 @@ Welcome to **Statistics for Data Science - Day_01**!
 
 ---
 
-## 🔗 **Statistics for Data Science - Full Playlist**
+### 🔗 **Statistics for Data Science - Full Playlist**
 Explore the full series here —  
 👉 [Statistics Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfrvfvCVAnvTdEwDOXm30N--)
 
 ---
 
-## ❤️ Stay Connected
+### ❤️ Stay Connected
 ভিডিও ভালো লাগলে অবশ্যই ⭐ **Star** দিবেন,  
 **Subscribe** করবেন আর **Comment** করে জানাবেন কেমন লাগলো।
 
