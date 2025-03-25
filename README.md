@@ -1,6 +1,6 @@
-# Statistics-for-Data-Science
+# Statistics for Data Science
 
----
+
 
 ### 📊 Statistics for Data Science | Bangla Tutorial | Day_01 | What is Statistics? Why Important? | Dropout Programmer
 
@@ -41,6 +41,6 @@ Explore the full series here —
 ভিডিও ভালো লাগলে অবশ্যই ⭐ **Star** দিবেন,  
 **Subscribe** করবেন আর **Comment** করে জানাবেন কেমন লাগলো।
 
-**Bangla Data Science & Machine Learning Series** - শুধুই আপনাদের জন্য।
+**Bangla Statistics for Data Science Series** - শুধুই আপনাদের জন্য।
 
 ---
