@@ -27,11 +27,10 @@ Welcome to **Statistics for Data Science - Day_01**!
 ✅ **Statistics-এর মাধ্যমে Decision Making ও Prediction**  
 ✅ **Real-life উদাহরণ ও Data Science-এ Statistics-এর প্রয়োগ**
 
----
 
-## 📚 Resources - Notes, Slides & Video
+### 📚 Resources - Notes, Slides & Video
 
-## 🎥 **Video Link - Statistics Day_01**
+### 🎥 **Video Link - Statistics Day_01**
 👉 [Watch the Full Video on YouTube](https://youtu.be/-aW5Z8im2gg?si=_v7f2vrtZyheL9IU)
 
 ### 📝 **Class Notes (PDF)**
