@@ -1,5 +1,6 @@
 # Statistics for Data Science
-## All Contents of Statistics for Data Science playlist
+
+### All Contents of Statistics for Data Science playlist
 
 ---
 
@@ -7,9 +8,8 @@
   <img src="https://github.com/mahamud-13756/Statistics-for-Data-Science/blob/main/Statistics%20Playlist.png" width="700"/>
 </p>
 
---- 
 
-## 🔗 **Matplotlib Full Playlist**
+### 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Statistics for Data Science Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfrvfvCVAnvTdEwDOXm30N--)
 
